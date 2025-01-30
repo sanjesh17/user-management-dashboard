@@ -33,6 +33,8 @@ src/
 ├── pages/
 │   ├── Home.jsx         // Main home page
 │   └── Form.jsx         // Page for editing and creating users
+├── services/
+    └── apiService.js
 ├── App.jsx
 └── main.jsx
 ```
