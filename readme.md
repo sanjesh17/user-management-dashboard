@@ -65,8 +65,8 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/user-dashboard-ajackus.git
-cd user-dashboard-ajackus
+git clone https://github.com/sanjesh17/user-management-dashboard.git
+cd user-management-dashboard
 ```
 
 2. Install dependencies:
