@@ -34,7 +34,7 @@ src/
 │   ├── Home.jsx         // Main home page
 │   └── Form.jsx         // Page for editing and creating users
 ├── services/
-    └── apiService.js
+│   └── apiService.js
 ├── App.jsx
 └── main.jsx
 ```
